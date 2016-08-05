@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/uniweb/lobbyist/app-services'
+let g:netrw_dirhist_2='/mnt/uniweblibs/Mandrill'
+let g:netrw_dirhist_3='/mnt/uninet/common/lib/www/clerks/legislation_lib'
+let g:netrw_dirhist_4='/opt/local/etc/httpd/conf.d'
